@@ -1,4 +1,4 @@
-### Hello there! :lightsaber:
+### Hello there! :video_game:
 
 My name is Samir Antoun Freitas Aniz. I've been working as Full-Stack Developer since 2016.
 
